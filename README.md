@@ -8,7 +8,7 @@ Tienda Dolave es una tienda en la cuál se pueden buscar productos a través del
 ![image](https://user-images.githubusercontent.com/33937242/115116549-00934a00-9f68-11eb-99dc-b06f4d6f3fd1.png)
 
 
-Edte desarrollo se llevó a cabo con las siguientes tecnologías:
+Este desarrollo se llevó a cabo con las siguientes tecnologías:
 
 - Javascript ES6 (Back-end)
 - Materialize (Front-End)
@@ -16,7 +16,7 @@ Edte desarrollo se llevó a cabo con las siguientes tecnologías:
 - MySQL (Base datos)
 - HTML5 y CSS3 (Maquetación)
 
-Al momento de utilizar el filtro, se pueden ver los resultados que este entrega a continuación, acompañados de su NOMBRE, VALOR, y un botón con opción de COMPRAR.
+Al momento de utilizar el filtro, se pueden ver los resultados que entrega a continuación, acompañados de su NOMBRE, VALOR, y un botón con opción de COMPRAR.
 
 ![Sin título](https://user-images.githubusercontent.com/33937242/115116645-b1014e00-9f68-11eb-83c4-73f863755931.png)
 
