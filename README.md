@@ -31,10 +31,11 @@ La API de la tienda se desarrolló con NodeJS en conjunto con Express. La conexi
 (*) Estructura de Proyecto
 
 En product.js se desarrollaron 3 endpoints:
+(*)https://apitiendadolave.herokuapp.com/ endpointEspecifico
 
-1.- Obtener productos --> /getProduct https://apitiendadolave.herokuapp.com/getProduct
-2.- Obtener categorías --> /getCategory https://apitiendadolave.herokuapp.com/getCategory
-3.- Obtener productos por categoría --> /id (especificar id de categoría específico) https://apitiendadolave.herokuapp.com/4
+1.- Obtener productos --> /getProduct 
+2.- Obtener categorías --> /getCategory 
+3.- Obtener productos por categoría --> /id (especificar id de categoría específico)
 
 Este modelo fue exportado y llamado en Index.js para levantar el servidor final con el que trabaja Tienda_Dolave.
 
